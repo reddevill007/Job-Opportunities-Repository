@@ -6,16 +6,18 @@ Welcome to the **Job Opportunities Repository**! This repository is a **curated 
 
 This repository contains categorized lists of companies with their **size, industry, hiring status, and careers page links**:
 
-- 🏢 **B2B Companies** – Enterprise solutions and tech firms.
-- 💼 **Consulting & Analytics** – Top global consulting firms hiring.
-- 🏥 **Healthcare & Pharma** – Leading companies in the medical field.
-- 🛍️ **E-Commerce & Startups** – Retail giants and rising startups.
-- 🌍 **FAANG (Facebook, Apple, Amazon, Netflix, Google)** – Tech giants hiring globally.
-- 📚 **EdTech** – Educational technology firms shaping online learning.
-- 💰 **FinTech** – Companies innovating in financial services.
-- ☁️ **SaaS** – Cloud and software-as-a-service providers.
-- 🚚 **Logistics & Transportation** – Companies in supply chain and delivery.
-- 🎬 **Media & Entertainment** – Streaming, gaming, and content-driven companies.
+### 📂 Categories:
+
+- 🏢 **[B2B Companies](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/B2B)**
+- 🏬 **[B2C Companies](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/B2C)**
+- 💼 **[Consulting & Analytics](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/Consulting)**
+- 🛍️ **[E-Commerce & Startups](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/E-Commerce)**
+- 📚 **[EdTech](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/Edtech)**
+- 🌍 **[FAANG (Facebook, Apple, Amazon, Netflix, Google)](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/FAANG)**
+- 💰 **[FinTech](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/Fintech)**
+- 🚚 **[Logistics & Transportation](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/LogisticsTransportation)**
+- 🎬 **[Media & Entertainment](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/MediaEntertainment)**
+- ☁️ **[SaaS](https://github.com/reddevill007/Job-Opportunities-Repository/tree/main/SaaS)**
 
 ## 🎯 Who Is This For?
 
@@ -27,8 +29,8 @@ This repository is designed for:
 
 ## 🔗 How to Use?
 
-1. **Browse** the industry-specific tables.
-2. **Click** the **careers page links** to explore job openings.
+1. **Browse** the industry-specific folders above.
+2. **Click** the **careers page links** inside each folder to explore job openings.
 3. **Apply** directly to the companies that align with your goals.
 
 ## 🤝 Contribute
